@@ -1,0 +1,4 @@
+*.txt
+*.fa
+*.fa.gz
+.ipynb_checkpoints/
